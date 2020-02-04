@@ -10,3 +10,7 @@
 - basic knowledge of HTML + CSS
 - skills in CorelDraw, Adobe Photoshop, InDesign, Adobe Illustrator
 - fluent in office programs MS PowerPoint, MS Word and MS Excel
+
+5. --
+
+6. --
