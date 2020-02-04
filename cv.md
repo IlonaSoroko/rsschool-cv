@@ -14,3 +14,9 @@
 5. --
 
 6. --
+
+7. *Education:* 2015-2019 --- Belorussian State Technological University  
+  Faculty: of Print echnologies and Media Communications  
+  Specialty: Publishing
+
+8. *English*: studing at school and university. Level: A2+ 
