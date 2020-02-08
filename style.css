@@ -1,0 +1,36 @@
+body {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+}
+h1 {
+	text-align: center;
+	font-size: 3,125em;
+	font-weight: 700;
+}
+.info {
+	max-width: 500px;
+	text-align: justify;
+	float: left;
+}
+h2 {
+	font-weight: 400;
+	color: #800000;
+	font-size: 1.25em;
+}
+img {
+	max-width: 83%;
+}
+
+.foto {
+	float: right;
+	max-width: 494px;
+	padding-top: 20px;
+	text-align: right;
+}
+.contacts {
+	clear: both;
+	text-align: center;
+}
