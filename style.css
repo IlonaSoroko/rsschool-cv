@@ -5,23 +5,33 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 1em;
 }
+.main {
+	background: white;
+	padding: 50px;
+}
 h1 {
 	text-align: center;
-	font-size: 3,125em;
+	font-size: 3em;
 	font-weight: 700;
+	text-transform: uppercase;
+	background: #D1D8FF;
+	padding: 3%;
+	margin: -50px -50px 10px -50px;
+	color: #FFF;
 }
 .info {
-	max-width: 500px;
+	max-width: 400px;
 	text-align: justify;
 	float: left;
 }
 h2 {
-	font-weight: 400;
-	color: #800000;
+	font-weight: 700;
 	font-size: 1.25em;
 }
 img {
 	max-width: 83%;
+	border-radius: 50%;
+	border: 8px solid #D1D8FF;
 }
 
 .foto {
@@ -31,6 +41,21 @@ img {
 	text-align: right;
 }
 .contacts {
+	padding: 40px;
 	clear: both;
 	text-align: center;
+}
+.contacts ul {
+	display: inline-block;
+}
+.contacts h2 {
+	margin: 0;
+	padding: 0;
+}
+footer {
+	background: #D1D8FF;
+	text-align: center;
+		margin: 0 -50px;
+		padding: 10px;
+		color: #FFF;
 }
